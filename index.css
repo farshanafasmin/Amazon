@@ -157,7 +157,7 @@
     
   .col h3{  color: black; }
       
-  .col h5{  color: black; font-weight: 30; }
+  .col h5{  color: black; font-weight: 60; }
    
   .col a{   color: black; }
 
@@ -203,6 +203,11 @@
     nav input { width: 260px;  font-size: 10px; }
    
     nav button { font-size: 10px; }
+
+    .searchBox input{
+        width: 180px;
+    }
+    
  
     nav .all{ height: 32px; font-size: 10px; } 
    
